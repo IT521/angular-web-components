@@ -1,0 +1,58 @@
+.awc-button {
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition-duration: 0.4s;
+  opacity: 1;
+}
+.awc-button:hover {
+  border: 3px solid black;
+  opacity: 0.75;
+  color:  silver;
+}
+.awc-button__color--blue {
+  background-color: #008CBA;
+}
+.awc-button__color--green {
+  background-color: #4CAF50;
+}
+.awc-button__color--red {
+  background-color: #f44336;
+}
+.awc-button__color--black {
+  background-color: #555555;
+}
+.awc-button__size--xsmall {
+  font-size: 12px;
+}
+.awc-button__size--small {
+  font-size: 16px;
+}
+.awc-button__size--medium {
+  font-size: 20px;
+}
+.awc-button__size--large {
+  font-size: 24px;
+}
+.awc-button__size--large {
+  font-size: 24px;
+}
+.awc-button__margin--none {
+  margin: none;
+}
+.awc-button__margin--xsmall {
+  margin: 4px;
+}
+.awc-button__margin--small {
+  margin: 8px;
+}
+.awc-button__margin--medium {
+  margin: 16px;
+}
+.awc-button__margin--large {
+  margin: 32px;
+}
